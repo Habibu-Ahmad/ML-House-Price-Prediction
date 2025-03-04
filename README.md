@@ -50,7 +50,9 @@ The project follows a step-by-step approach:
 ### Final Model Performance
 - **Train \( R^2 \) for degree 2 (scratch):** 0.7366
 - **Test \( R^2 \) for degree 2 (scratch):** 0.7432
-- **Scikit-learn Polynomial Regression (degree 2) gave similar performance.**
+- **Scikit-learn Polynomial Regression (degree 2) performs better with** R-squared (Training): 0.8346
+R-squared (Test): 0.7980
+
 
 ## Dependencies
 Ensure you have the following libraries installed:
